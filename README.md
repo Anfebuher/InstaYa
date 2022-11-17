@@ -1,3 +1,3 @@
 # InstaYa
 
-##Repositorio Proyecto Ciclo 4 MinTic
+## Repositorio Proyecto Ciclo 4 MinTic
